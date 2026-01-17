@@ -54,7 +54,7 @@ interface Idea {
   targetCustomer: string;        // Max 200 chars, who should buy?
   
   // Actionable
-  stepsToStart: string[];        // 3-8 steps, each <100 chars
+  stepsToStart: string[];        // 3-8 steps, each &lt;100 chars
   
   // Economics
   costRange: {

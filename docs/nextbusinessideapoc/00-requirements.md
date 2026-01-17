@@ -125,8 +125,8 @@ Build a proof-of-concept application that generates personalized business ideas 
 
 ## 7. Success Criteria
 
-- [ ] App runs locally in <10 minutes
-- [ ] User can generate 10 ideas in <5 seconds
+- [ ] App runs locally in &lt;10 minutes
+- [ ] User can generate 10 ideas in &lt;5 seconds
 - [ ] Ideas are ranked with explainable scores
 - [ ] User can save ideas
 - [ ] Documentation explains how to add real integrations

@@ -430,11 +430,11 @@ export { getIdeaGenerator, getScoringService, getIdeaRepository };
 
 ## 9. Performance Targets
 
-- Idea generation: <2s (200ms mock + 100ms per idea)
-- Scoring: <100ms per idea (deterministic)
-- Saved ideas retrieval: <500ms
-- Page load: <1s (Next.js optimized)
-- Core bundle: <50KB
+- Idea generation: &lt;2s (200ms mock + 100ms per idea)
+- Scoring: &lt;100ms per idea (deterministic)
+- Saved ideas retrieval: &lt;500ms
+- Page load: &lt;1s (Next.js optimized)
+- Core bundle: &lt;50KB
 
 ## 10. Monitoring & Observability
 

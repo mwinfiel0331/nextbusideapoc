@@ -177,7 +177,7 @@ All interfaces include JSDoc examples of:
 - ✅ Commands to run all tests
 
 #### 05-deployment.md
-- ✅ Local development setup (<10 min guide)
+- ✅ Local development setup (&lt;10 min guide)
 - ✅ .env.local configuration
 - ✅ Seed data explanation
 - ✅ Build & production optimization
@@ -233,7 +233,7 @@ All interfaces include JSDoc examples of:
 
 - ✅ `QUICKSTART.md` (600+ lines)
   - Project structure summary
-  - Getting started (<10 minutes)
+  - Getting started (&lt;10 minutes)
   - Key files to understand
   - User flow explained
   - Scoring explained (quick + detailed)
@@ -262,8 +262,8 @@ All interfaces include JSDoc examples of:
 - [x] All scores are deterministic and reproducible
 
 ### Non-Functional Features ✅
-- [x] <10 minute setup time (pnpm i && pnpm dev)
-- [x] <2 second API response time
+- [x] &lt;10 minute setup time (pnpm i && pnpm dev)
+- [x] &lt;2 second API response time
 - [x] 100% TypeScript, strict mode
 - [x] Mock integrations designed for easy real service swap
 - [x] All external dependencies behind clear interfaces
@@ -435,7 +435,7 @@ Beyond the original request:
 - [x] TypeScript across the stack
 - [x] README.md with setup/run steps and Architecture Overview
 - [x] /docs with: requirements, architecture, API spec, data model, testing, deployment
-- [x] POC runnable in <10 minutes: `pnpm i`, `pnpm dev`, `pnpm test`
+- [x] POC runnable in &lt;10 minutes: `pnpm i`, `pnpm dev`, `pnpm test`
 - [x] Sample env files (.env.example)
 - [x] Seed data (idea catalog in code)
 - [x] Minimal UI (form, idea list, scoring display)

@@ -299,7 +299,7 @@ export function logRequest(endpoint: string, duration: number, status: number) {
 - Single Next.js server
 - In-memory repository
 - Mock integrations
-- <100 users/day
+- &lt;100 users/day
 
 ### Phase 2: Beta (with Real Services)
 - Upgrade to PostgreSQL

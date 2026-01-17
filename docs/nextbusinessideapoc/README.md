@@ -11,7 +11,7 @@ Generate personalized business ideas and rank them using a deterministic scoring
 - 💾 **Idea Persistence**: Save and manage favorite ideas
 - 🔧 **Mock Integrations**: Designed for easy swapping with real services (LLM, ML, DB)
 - 📚 **Production Docs**: Complete architecture, API, and deployment guides embedded in repo
-- ⚡ **Fast Setup**: Ready in <10 minutes with `pnpm i && pnpm dev`
+- ⚡ **Fast Setup**: Ready in &lt;10 minutes with `pnpm i && pnpm dev`
 
 **Live Architecture Overview**:
 
@@ -407,10 +407,10 @@ See [.env.example](.env.example) for all options.
 
 | Metric | Target | Current (Mock) |
 |--------|--------|---|
-| Idea Generation API | <2s | ~300ms |
-| Scoring per Idea | <100ms | ~100ms |
-| Page Load | <1s | ~400ms |
-| Bundle Size | <100KB | ~45KB |
+| Idea Generation API | &lt;2s | ~300ms |
+| Scoring per Idea | &lt;100ms | ~100ms |
+| Page Load | &lt;1s | ~400ms |
+| Bundle Size | &lt;100KB | ~45KB |
 
 ### Optimization
 
